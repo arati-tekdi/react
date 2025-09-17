@@ -1,0 +1,21 @@
+.item {
+  border-radius: 5%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+.deleteButton {
+  float: right;
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 7px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
